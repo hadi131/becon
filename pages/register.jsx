@@ -4,7 +4,7 @@ const register = () => {
   return (
     <>
       <div className="register-main-div">
-      <iframe className="registerForm" src="https://docs.google.com/forms/d/e/1FAIpQLScDHgMpuqVTC-gE1iKPbPO-9wruqPpTP0pUm71M36Ino9Kt6w/viewform?embedded=true" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>        {/* <div className="form-main">
+      <iframe className="registerForm" src="https://docs.google.com/forms/d/e/1FAIpQLSd7ZTrLVdcK3NwHdvCqF88TDmrjZnm9a3PcbZ7QfKkMzM8ZcQ/viewform?embedded=true"  frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>        {/* <div className="form-main">
           <div className="form-title">
             <h2>Sign Up</h2>
           </div>
